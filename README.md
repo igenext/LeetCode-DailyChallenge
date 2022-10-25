@@ -4,3 +4,4 @@
 2. [Delete the Middle Node of a Linked List](./delMidNode/)
 3. [Check if the Sentence Is Pangram](./checkPangram/)
 4. [Contains Duplicate II](./containsDuplicateII/)
+5. [Check If Two String Arrays are Equivalent](./twoStringArraysEquilvalent)

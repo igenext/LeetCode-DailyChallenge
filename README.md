@@ -5,3 +5,4 @@
 3. [Check if the Sentence Is Pangram](./checkPangram/)
 4. [Contains Duplicate II](./containsDuplicateII/)
 5. [Check If Two String Arrays are Equivalent](./twoStringArraysEquilvalent)
+5. [1323. Maximum 69 Number [Nov-7,2022]](./max69Number/)

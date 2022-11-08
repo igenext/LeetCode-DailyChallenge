@@ -33,6 +33,7 @@ Output: ""
 Explanation: We have many possible scenarios, and all lead to the same answer. For example:
 
 "abBAcC" --> "aAcC" --> "cC" --> ""
+
 "abBAcC" --> "abBA" --> "aA" --> ""
 
 ### Example 3:
